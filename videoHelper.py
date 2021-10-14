@@ -8,8 +8,8 @@ import json
 
 # 以下的csrftoken和sessionid需要改成自己登录后的cookie中对应的字段！！！！而且脚本需在登录雨课堂状态下使用
 # 登录上雨课堂，然后按F12-->选Application-->找到雨课堂的cookies，寻找csrftoken和sessionid字段，并复制到下面两行即可
-csrftoken = "" #需改成自己的
-sessionid = "" #需改成自己的
+csrftoken = "ZUt507pqXxAYPNteaJBfPBEYvY8aehNJ" #需改成自己的
+sessionid = "r8qbkrkm6uatlozh6e3822ulmu9o56m1" #需改成自己的
 
 # 以下字段不用改，下面的代码也不用改动
 user_id = ""
